@@ -1,2 +1,2 @@
 # Tableau-project-1
-walmart images stored
+Few screenshot on walmart data of sales.
